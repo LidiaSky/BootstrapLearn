@@ -1,0 +1,21 @@
+.container-fluid {
+
+  height:556px;
+  background: url("fst_bgr.png");
+  background-size: cover;
+  margin-top: 0px;
+  margin-bottom:60px;
+
+}
+
+
+.fsth2 {
+  color:#ffffff;
+  font-size:50px;
+  font-weight:normal;
+  font-family: sans-serif;
+
+  margin-left: 134px;
+  margin-top:59px;
+
+}
