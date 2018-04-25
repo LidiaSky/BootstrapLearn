@@ -74,3 +74,47 @@ box-sizing: border-box;
   .card-loyality .banner a {
     float:right;
   }
+
+  .card-loyality .condition {
+    background: #fcf343;
+    border-radius: 10px;
+    padding: 40px 0;
+    margin-bottom: 30px;
+  }
+
+.condition h2 {
+    text-align: center;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+.condition .lead {
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.condition .inner {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 8px #bbb;
+    padding: 15px;
+    margin: 0 15px;
+}
+.condition .inner table th .yellow {
+    font-size: 17px;
+    background: #fcf343;
+    width: 75px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    margin-right: 10px;
+    position: relative;
+}
+
+.cat h2 {
+    margin-bottom: 40px;
+}
+.al_c {
+    text-align: center;
+}
